@@ -1,0 +1,48 @@
+{
+  "name": "Fnex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaway": "^1.1.3",
+    "discord-giveaways": "^4.4.3",
+    "discord-paginationembed": "^2.1.0",
+    "discord-xp": "^1.1.7",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "distube": "^2.8.8",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "math": "0.0.3",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.4",
+    "ms": "^2.1.3",
+    "node-gyp": "^7.1.2",
+    "opusscript": "0.0.7",
+    "os": "^0.1.1",
+    "parse-ms": "^2.1.0",
+    "python": "0.0.4",
+    "quick.db": "^7.1.3",
+    "response": "^0.18.0",
+    "sqlite": "^4.0.19",
+    "stream-browserify": "^3.0.0",
+    "time-stamp": "^2.2.0",
+    "timestamp": "0.0.1",
+    "utils": "^0.3.1",
+    "yarn": "^1.22.10",
+    "yt-search": "^2.7.3",
+    "ytdl-core": "^4.4.5",
+    "ytdl-core-discord": "^1.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "description": ""
+}
