@@ -1,0 +1,67 @@
+# Configs
+config.json
+application.yml
+
+# Binaries
+*.exe
+*.jar
+rethinkdb
+
+# Modules
+src/webserver/public/css/
+.sass-cache
+dist/
+docs/
+node_modules/
+out/
+rethinkdb_data/
+
+# Logs & lockfiles
+.npm
+*.log
+*-audit.json
+npm
+report.*
+yarn.lock*
+logs/
+
+# Windows
+*.stackdump
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+Thumbs.db
+Thumbs.db:encryptable
+$RECYCLE.BIN/
+
+# macOS
+._*
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Icon
+Network Trash Folder
+Temporary Items
+
+# Linux
+*~
+.directory
+.fuse_hidden*
+.nfs*
+.Trash-*
